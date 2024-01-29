@@ -5,7 +5,7 @@ public class Projector {
         System.out.println("projector turn on");
     }
     void projectOnScreen(){
-        System.out.println("project ");
+        System.out.println("projecting...");
     }
     void turnOff(){
         System.out.println("projector turn off");
